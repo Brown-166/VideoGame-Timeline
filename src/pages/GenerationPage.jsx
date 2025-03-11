@@ -27,7 +27,7 @@ function GenerationPage() {
                 <p>{console.company}</p>
               </div>
               <div className="console-image-Gen">
-                <img src={`/images/${console.image}`} alt={console.name} />
+                <img src={`${console.image}`} alt={console.name} />
               </div>
             </Link>
           ))}
