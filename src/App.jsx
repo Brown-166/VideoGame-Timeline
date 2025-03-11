@@ -7,7 +7,7 @@ import ConsolePage from "./pages/ConsolePage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/videogame-timeline">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/gen/:genId" element={<GenerationPage />} />
