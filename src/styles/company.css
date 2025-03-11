@@ -1,0 +1,23 @@
+.Atari{
+    background-color: rgb(35, 35, 35) !important;
+    color:white !important;
+}
+
+.Nintendo{
+    background-color: rgb(255, 0, 0) !important;
+    color:white !important;
+}
+
+.Sega{
+    background-color: rgb(0, 200, 250) !important;
+    color:white !important;
+}
+
+.Sony{
+background-color: rgb(0, 50, 250) !important;
+color:white !important;
+}
+
+.Microsoft{
+    background-color: rgb(0, 200, 0) !important;
+}

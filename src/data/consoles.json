@@ -1,0 +1,533 @@
+{
+    "1": {
+        "name": "Primeira Geração",
+        "consoles": [
+            {
+                "id": "odyssey",
+                "name": "Magnavox Odyssey",
+                "year": 1972,
+                "releaseDate": "21 de maio de 1972",
+                "image": "odyssey.jpg",
+                "description": "O primeiro console de videogame caseiro.",
+                "company": "Magnavox"
+            },
+            {
+                "id": "coleco_telstar",
+                "name": "Coleco Telstar",
+                "year": 1976,
+                "releaseDate": "1976",
+                "image": "coleco_telstar.jpg",
+                "description": "O console fez muito sucesso por causa de seus baixos preços que custavam 50 dólares em média.",
+                "company": "Coleco"
+            },
+            {
+                "id": "telejogo",
+                "name": "Telejogo",
+                "year": 1977,
+                "releaseDate": "1977",
+                "image": "telejogo.jpg",
+                "description": "Consistia basicamente de traços que subiam ou desciam para rebater um quadrado e o controle era feito através de um dial.",
+                "company": "Philco e Ford"
+            },
+            {
+                "id": "color_tv_game",
+                "name": "Color TV-Game",
+                "year": 1977,
+                "releaseDate": "1 de junho de 1977",
+                "image": "color_tv_game.jpg",
+                "description": "O primeiro console a ser lançado pela Nintendo.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "telejogo_ii",
+                "name": "Telejogo II",
+                "year": 1978,
+                "releaseDate": "1978",
+                "image": "telejogo_ii.jpg",
+                "description": "Além dos 10 jogos dessa versão outro detalhe que se destaca no Telejogo II são os joysticks, com eles não era mais necessário ficar perto do console para poder jogar.",
+                "company": "Philco e Ford"
+            }
+        ]
+    },
+    "2": {
+        "name": "Segunda Geração",
+        "consoles": [
+            {
+                "id": "fairchild_channel_f",
+                "name": "Fairchild Channel F",
+                "year": 1976,
+                "releaseDate": "14 de novembro de 1976",
+                "image": "fairchild_channel_f.jpg",
+                "description": "Primeiro console a usar cartuchos programáveis.",
+                "company": "Fairchild"
+            },
+            {
+                "id": "atari2600",
+                "name": "Atari 2600",
+                "year": 1977,
+                "releaseDate": "11 de setembro de 1977",
+                "image": "atari2600.jpg",
+                "description": "Popularizou os videogames nos anos 70 e 80.",
+                "company": "Atari"
+            },
+            {
+                "id": "magnavox_odyssey_2",
+                "name": "Magnavox Odyssey 2",
+                "year": 1978,
+                "releaseDate": "julho de 1978",
+                "image": "magnavox_odyssey_2.jpg",
+                "description": "Um diferencial era seu teclado embutido, que permitia uma gama de jogos diferentes dos lançados pela Atari.",
+                "company": "Magnavox e Philips"
+            },
+            {
+                "id": "game_e_watch",
+                "name": "Game & Watch",
+                "year": 1980,
+                "releaseDate": "1980",
+                "image": "game_e_watch.jpg",
+                "description": "A segunda linha de aparelhos de jogos eletrônicos da Nintendo sendo a primeira portátil.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "intellivision",
+                "name": "Intellivision",
+                "year": 1979,
+                "releaseDate": "3 de dezembro de 1979",
+                "image": "intellivision.jpg",
+                "description": "Concorrente do Atari 2600, conhecido por gráficos superiores.",
+                "company": "Mattel"
+            },
+            {
+                "id": "atari_5200",
+                "name": "Atari 5200",
+                "year": 1982,
+                "releaseDate": "novembro de 1982",
+                "image": "atari_5200.png",
+                "description": "Foram lançados vários clássicos para o Atari 5200, porém a maioria deles eram apenas jogos do antigo Atari 2600 convertidos para a plataforma do Atari 5200 e não fizeram muito sucesso.",
+                "company": "Atari"
+            },
+            {
+                "id": "colecovision",
+                "name": "ColecoVision",
+                "year": 1982,
+                "releaseDate": "Agosto de 1982",
+                "image": "colecovision.jpg",
+                "description": "Apresentou gráficos avançados para a época e ports fiéis aos arcades.",
+                "company": "Coleco"
+            }
+        ]
+    },
+    "3": {
+        "name": "Terceira Geração",
+        "consoles": [
+            {
+                "id": "sega_sg_1000",
+                "name": "Sega SG-1000",
+                "year": 1983,
+                "releaseDate": "15 de julho de 1983",
+                "image": "sega_sg_1000.jpg",
+                "description": "Este foi o primeiro videogame da Sega, marcando a entrada da empresa no ramo. Entretanto, o mesmo não representou significativa ameaça aos consoles existentes em sua época.",
+                "company": "Sega"
+            },
+            {
+                "id": "nes",
+                "name": "Nintendo Entertainment System (NES)",
+                "year": 1983,
+                "releaseDate": "15 de julho de 1983",
+                "image": "nes.jpg",
+                "description": "Revolucionou a indústria dos videogames após o crash de 1983.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "msx",
+                "name": "MSX",
+                "year": 1983,
+                "releaseDate": "27 de junho de 1983",
+                "image": "msx.jpg",
+                "description": "MSX foi o nome dado a uma arquitetura de microcomputadores pessoais criada no Japão. Muitos de seus usuários costumavam usá-lo apenas como um videogame de luxo, estereótipo este uma consequência da grande qualidade dos jogos disponíveis. Eles eram distribuídos por empresas como a Konami, Compile e outras, que se aproveitaram da capacidade gráfica e de som do MSX para produzir jogos muito mais atraentes que os encontrados nos videogames da época.",
+                "company": "Microsoft Japan"
+            },
+            {
+                "id": "atari_7800",
+                "name": "Atari 7800",
+                "year": 1986,
+                "releaseDate": "12 de maio de 1986",
+                "image": "atari_7800.jpg",
+                "description": "O Atari 7800, foi projetado para fazer frente aos recentes rivais do Atari 5200, O Nintendo Entertainment System (NES) e o Sega Master System. Com um processador trabalhando em uma velocidade maior do que os rivais, e com um processador de áudio com 2 canais separados, o Atari 7800 possuía um desempenho maior do que o NES.",
+                "company": "Atari"
+            },
+            {
+                "id": "sega_master_system",
+                "name": "Master System",
+                "year": 1985,
+                "releaseDate": "20 de outubro de 1985",
+                "image": "sega_master_system.jpeg",
+                "description": "Concorrente direto do NES, teve grande sucesso no Brasil.",
+                "company": "Sega"
+            }
+        ]
+    },
+    "4": {
+        "name": "Quarta Geração",
+        "consoles": [
+            {
+                "id": "sega_genesis",
+                "name": "Sega Genesis / Mega Drive",
+                "year": 1988,
+                "releaseDate": "29 de outubro de 1988",
+                "image": "sega_genesis.jpg",
+                "description": "Popularizou Sonic e trouxe uma grande rivalidade com a Nintendo.",
+                "company": "Sega"
+            },
+            {
+                "id": "game_boy",
+                "name": "Game Boy",
+                "year": 1989,
+                "releaseDate": "21 de abril de 1989",
+                "image": "game_boy.jpg",
+                "description": "O Game Boy é o segundo portátil da Nintendo, criado após a linha Game & Watch lançada em 1980. A diferença é que o Game Boy rodava diferentes games bastando apenas trocar os cartuchos inseridos.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "atari_lynx",
+                "name": "Atari Lynx",
+                "year": 1989,
+                "releaseDate": "11 de outubro de 1989",
+                "image": "atari_lynx.jpg",
+                "description": "O primeiro portátil a apresentar tela colorida.",
+                "company": "Atari"
+            },
+            {
+                "id": "game_gear",
+                "name": "Game Gear",
+                "year": 1990,
+                "releaseDate": "6 de outubro de 1990",
+                "image": "game_gear.jpg",
+                "description": "O Game Gear é considerado por muitos um Master System portátil, pela semelhança técnica entre os dois aparelhos.",
+                "company": "Sega"
+            },
+            {
+                "id": "snes",
+                "name": "Super Nintendo Entertainment System (SNES)",
+                "year": 1990,
+                "releaseDate": "21 de novembro de 1990",
+                "image": "snes.png",
+                "description": "Sucesso mundial com clássicos como Super Mario World e Zelda.",
+                "company": "Nintendo"
+            }
+        ]
+    },
+    "5": {
+        "name": "Quinta Geração",
+        "consoles": [
+            {
+                "id": "atari_jaguar",
+                "name": "Atari Jaguar",
+                "year": 1993,
+                "releaseDate": "18 de novembro de 1993",
+                "image": "atari_jaguar.jpg",
+                "description": "Embora promovido como um dos primeiro consoles de 64 bits, o Jaguar provou ser um fracasso comercial, e levou a Atari a abandonar o mercado de consoles domésticos.",
+                "company": "Atari"
+            },
+            {
+                "id": "sega_saturn",
+                "name": "Sega Saturn",
+                "year": 1994,
+                "releaseDate": "22 de novembro de 1994",
+                "image": "sega_saturn.png",
+                "description": "Foi o sucessor do bem sucedido Mega Drive, porém, o console vendeu 9,26 milhões de unidades em todo o mundo, um fracasso comercial.",
+                "company": "Sega"
+            },
+            {
+                "id": "playstation",
+                "name": "PlayStation",
+                "year": 1994,
+                "releaseDate": "3 de dezembro de 1994",
+                "image": "playstation.jpg",
+                "description": "Primeiro console da Sony, vendeu mais de 100 milhões de unidades.",
+                "company": "Sony"
+            },
+            {
+                "id": "virtual_boy",
+                "name": "Virtual Boy",
+                "year": 1995,
+                "releaseDate": "21 de julho de 1995",
+                "image": "virtual_boy.jpg",
+                "description": "O Virtual Boy é um console portátil projetado por Gunpei Yokoi (pai de criações famosas como Game & Watch e Game Boy), que se tornou o maior fracasso da Nintendo.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "nintendo64",
+                "name": "Nintendo 64",
+                "year": 1996,
+                "releaseDate": "23 de junho de 1996",
+                "image": "nintendo64.jpg",
+                "description": "Introduziu gráficos 3D e jogos icônicos como Mario 64.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "game_boy_color",
+                "name": "Game Boy Color",
+                "year": 1998,
+                "releaseDate": "21 de outubro de 1998",
+                "image": "game_boy_color.jpg",
+                "description": "O Game Boy Color foi uma resposta à pressão das desenvolvedoras de jogos por um sistema de jogo novo e mais sofisticado, já que elas sentiam que o Game Boy, mesmo em sua última versão, o Game Boy Pocket, era insuficiente.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "pocketstation",
+                "name": "PocketStation",
+                "year": 1998,
+                "releaseDate": "23 de dezembro de 1998",
+                "image": "pocketstation.jpg",
+                "description": "O PocketStation é um acessório para o console PlayStation para salvamento do progresso dos jogos, um assistente pessoal digital, e também um console de videogame portátil.",
+                "company": "Sony"
+            }
+        ]
+    },
+    "6": {
+        "name": "Sexta Geração",
+        "consoles": [
+            {
+                "id": "dreamcast",
+                "name": "Dreamcast",
+                "year": 1998,
+                "releaseDate": "27 de novembro de 1998",
+                "image": "dreamcast.jpg",
+                "description": "Foi o primeiro da sexta geração de consoles, precedendo, e ao mesmo tempo, concorrendo com o PlayStation 2 da Sony, o GameCube da Nintendo e o Xbox da Microsoft. O Dreamcast foi o último console doméstico da Sega, marcando o fim dos 18 anos da empresa no mercado de consoles.",
+                "company": "Sega"
+            },
+            {
+                "id": "playstation2",
+                "name": "PlayStation 2",
+                "year": 2000,
+                "releaseDate": "4 de março de 2000",
+                "image": "playstation2.jpg",
+                "description": "Console mais vendido da história, com suporte a DVD.",
+                "company": "Sony"
+            },
+            {
+                "id": "gamecube",
+                "name": "Nintendo GameCube",
+                "year": 2001,
+                "releaseDate": "14 de setembro de 2001",
+                "image": "gamecube.jpg",
+                "description": "Usava mini DVDs e trouxe clássicos como Super Smash Bros. Melee.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "xbox",
+                "name": "Xbox",
+                "year": 2001,
+                "releaseDate": "15 de novembro de 2001",
+                "image": "xbox.png",
+                "description": "Primeiro console da Microsoft, trouxe o Xbox Live.",
+                "company": "Microsoft"
+            },
+            {
+                "id": "pokemon_mini",
+                "name": "Pokémon mini",
+                "year": 2001,
+                "releaseDate": "16 de novembro de 2001",
+                "image": "pokemon_mini.jpg",
+                "description": "É o menor sistema de jogos com cartucho intercambiável alguma vez produzido pela Nintendo, pesando apenas 70 gramas.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "atari_flashback",
+                "name": "Atari Flashback",
+                "year": 2004,
+                "releaseDate": "2004",
+                "image": "atari_flashback.jpg",
+                "description": "São versões plug and play dos consoles clássicos da segunda e da terceira geração Atari 2600 e Atari 7800, que em vez de usar cartuchos com ROM, os jogos vem embutidos no aparelho.",
+                "company": "Atari"
+            }
+        ]
+    },
+    "7": {
+        "name": "Sétima Geração",
+        "consoles": [
+            {
+                "id": "nintendo_ds",
+                "name": "Nintendo DS",
+                "year": 2004,
+                "releaseDate": "21 de novembro de 2004",
+                "image": "nintendo_ds.jpg",
+                "description": "As letras DS no nome foram criadas para significar tanto a expressão Dual Screen (tela dupla) e Developers System (sistema de desenvolvedores), que se refere as características inovadoras do gameplay entre os desenvolvedores de jogos.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "psp",
+                "name": "PlayStation Portable",
+                "year": 2004,
+                "releaseDate": "12 de dezembro de 2004",
+                "image": "psp.jpg",
+                "description": "Seguindo a tendência da família PlayStation, o PSP possui outras funções além dos jogos, como leitor de áudio, vídeo e acesso à Internet sem fio via rede Wi-Fi. Seu principal concorrente era o Nintendo DS, console portátil da Nintendo.",
+                "company": "Sony"
+            },
+            {
+                "id": "xbox360",
+                "name": "Xbox 360",
+                "year": 2005,
+                "releaseDate": "22 de novembro de 2005",
+                "image": "xbox360.png",
+                "description": "Popularizou os jogos online e teve grande sucesso.",
+                "company": "Microsoft"
+            },
+            {
+                "id": "playstation3",
+                "name": "PlayStation 3",
+                "year": 2006,
+                "releaseDate": "11 de novembro de 2006",
+                "image": "playstation3.jpg",
+                "description": "Primeiro console da Sony com suporte a Blu-ray.",
+                "company": "Sony"
+            },
+            {
+                "id": "wii",
+                "name": "Nintendo Wii",
+                "year": 2006,
+                "releaseDate": "19 de novembro de 2006",
+                "image": "wii.png",
+                "description": "Revolucionou a jogabilidade com sensores de movimento.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "zeebo",
+                "name": "Zeebo",
+                "year": 2009,
+                "releaseDate": "25 de maio de 2009",
+                "image": "zeebo.jpg",
+                "description": "O primeiro console de mesa a não usar nenhum tipo de mídia física para a comercialização de jogos.",
+                "company": "Tectoy e Qualcomm"
+            }
+        ]
+    },
+    "8": {
+        "name": "Oitava Geração",
+        "consoles": [
+            {
+                "id": "nintendo_3ds",
+                "name": "Nintendo 3DS",
+                "year": 2011,
+                "releaseDate": "26 de fevereiro de 2011",
+                "image": "nintendo_3ds.jpg",
+                "description": "O console tem a capacidade de executar jogos e aplicativos com efeitos 3D estereoscópicos sem o uso de um óculos 3D ou acessórios adicionais.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "xperia_play",
+                "name": "Xperia Play",
+                "year": 2011,
+                "releaseDate": "1 de abril de 2011",
+                "image": "xperia_play.jpg",
+                "description": "Console portátil smartphone produzido pela Sony Ericsson sob a marca de smartphones Xperia rodando Android 2.3 Gingerbread, o dispostivo é o primeiro a ser parte do programa PlayStation Certified o que significa que ele pode rodar jogos PlayStation Mobile.",
+                "company": "Sony"
+            },
+            {
+                "id": "playstation_vita",
+                "name": "PlayStation Vita",
+                "year": 2011,
+                "releaseDate": "17 de dezembro de 2011",
+                "image": "playstation_vita.jpg",
+                "description": "O PlayStation Vita foi um console portátil desenvolvido pela Sony e o sucessor do PSP. Apresentava uma tela OLED sensível ao toque, dois analógicos e conectividade com o PlayStation 4 por meio do Remote Play. Apesar de sua potência e inovação, teve dificuldades comerciais devido à concorrência dos smartphones e à falta de suporte de grandes desenvolvedoras.",
+                "company": "Sony"
+            },
+            {
+                "id": "wiiu",
+                "name": "Nintendo Wii U",
+                "year": 2012,
+                "releaseDate": "18 de novembro de 2012",
+                "image": "wiiu.png",
+                "description": "Primeiro console da Nintendo em HD, mas teve vendas fracas.",
+                "company": "Nintendo"
+            },
+            {
+                "id": "playstation4",
+                "name": "PlayStation 4",
+                "year": 2013,
+                "releaseDate": "15 de novembro de 2013",
+                "image": "playstation4.jpg",
+                "description": "Grande sucesso comercial, com jogos exclusivos aclamados.",
+                "company": "Sony"
+            },
+            {
+                "id": "xbox_one",
+                "name": "Xbox One",
+                "year": 2013,
+                "releaseDate": "22 de novembro de 2013",
+                "image": "xbox_one.jpg",
+                "description": "Concorrente do PS4, focado em multimídia e serviços.",
+                "company": "Microsoft"
+            },
+            {
+                "id": "switch",
+                "name": "Nintendo Switch",
+                "year": 2017,
+                "releaseDate": "3 de março de 2017",
+                "image": "switch.jpg",
+                "description": "Console híbrido que pode ser jogado como portátil e de mesa.",
+                "company": "Nintendo"
+            }
+        ]
+    },
+    "9": {
+        "name": "Nona Geração",
+        "consoles": [
+            {
+                "id": "xbox_series_s",
+                "name": "Xbox Series S",
+                "year": 2020,
+                "releaseDate": "10 de novembro de 2020",
+                "image": "xbox_series_s.jpg",
+                "description": "Console menos poderoso da geração, focado no custo benefício.",
+                "company": "Microsoft"
+            },
+            {
+                "id": "xbox_series_x",
+                "name": "Xbox Series X",
+                "year": 2020,
+                "releaseDate": "10 de novembro de 2020",
+                "image": "xbox_series_x.jpg",
+                "description": "Console mais poderoso da Microsoft, focado em desempenho.",
+                "company": "Microsoft"
+            },
+            {
+                "id": "playstation5",
+                "name": "PlayStation 5",
+                "year": 2020,
+                "releaseDate": "12 de novembro de 2020",
+                "image": "playstation5.jpg",
+                "description": "Gráficos aprimorados e SSD ultrarrápido.",
+                "company": "Sony"
+            },
+            {
+                "id": "atari_vcs",
+                "name": "Atari VCS",
+                "year": 2021,
+                "releaseDate": "10 junho 2021",
+                "image": "atari_vcs.jpg",
+                "description": "O dispositivo roda o sistema operacional Linux com um processador AMD, apesar de seu desenho ser feito para homenagear o Atari 2600, jogos atuais funcionarão no console em Full HD.",
+                "company": "Atari"
+            },
+            {
+                "id": "steam_deck",
+                "name": "Steam Deck",
+                "year": 2022,
+                "releaseDate": "25 fevereiro 2022",
+                "image": "steam_deck.png",
+                "description": "O Steam Deck é um console portátil desenvolvido pela Valve, projetado para rodar jogos da biblioteca do Steam e outras plataformas de PC. Equipado com um hardware poderoso, tela LCD de 7 polegadas e controles integrados, ele oferece uma experiência semelhante a um computador portátil. Seu sistema operacional baseado em Linux permite ampla personalização, sendo uma alternativa flexível para jogadores de PC em movimento.",
+                "company": "Valve"
+            },
+            {
+                "id": "nintendo_switch_2",
+                "name": "Nintendo Switch 2",
+                "year": "2025 ?",
+                "releaseDate": "data de lançamento prevista para 2025",
+                "image": "nintendo_switch_2.webp",
+                "description": "O Nintendo Switch 2 é o esperado sucessor do popular Nintendo Switch. Espera-se que traga melhorias significativas no hardware, incluindo um novo processador, maior capacidade gráfica e possivelmente suporte para tecnologia DLSS da NVIDIA. Rumores indicam uma tela OLED aprimorada, melhor duração de bateria e compatibilidade com os jogos do console anterior.",
+                "company": "Nintendo"
+            }
+        ]
+    }
+}
