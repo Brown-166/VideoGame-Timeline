@@ -19,7 +19,7 @@ function ConsolePage() {
     <div className="consolePage">
       <div className={`console-container ${consoleInfo.company}`}>
         <h2>{consoleInfo.name}</h2>
-        <img src={`${consoleInfo.image}`} alt={consoleInfo.name} className="console-image" />
+        <img src={`/videogame-timeline/${consoleInfo.image}`} alt={consoleInfo.name} className="console-image" />
         <br></br>
         <br></br>
         <p><strong>Descrição:</strong> {consoleInfo.description}</p>

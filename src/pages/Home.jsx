@@ -26,7 +26,7 @@ function Home() {
                       <p>{console.year}</p>
                     </div>
                     <div className="console-image">
-                      <img src={`${console.image}`} alt={console.name} />
+                      <img src={`/videogame-timeline/${console.image}`} alt={console.name} />
                     </div>
                   </Link>
                 ))}
